@@ -21,43 +21,7 @@ Player Performance Across Seasons
 IPL_Insights.txt
 <img width="688" height="192" alt="image" src="https://github.com/user-attachments/assets/031be965-5ce6-4edd-8a98-edf2e84a1d4d" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Generated Files
+Generated Files:
 *Top_Run_Scorers.png
 *Team_Win_Rate.png
 *Runs_Per_Season.png
