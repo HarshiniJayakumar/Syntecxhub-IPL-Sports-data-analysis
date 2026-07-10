@@ -18,6 +18,8 @@ Top 10 Players by Total Runs
 Player Performance Across Seasons
 <img width="1867" height="891" alt="Screenshot 2026-07-10 234034" src="https://github.com/user-attachments/assets/58542d14-fb23-4dd3-9904-628c15ff0822" />
 
+<img width="600" height="47" alt="Screenshot 2026-07-10 234304" src="https://github.com/user-attachments/assets/5cdc00fe-303d-417b-8346-6b8417a5d65f" />
+
 IPL_Insights.txt
 <img width="688" height="192" alt="image" src="https://github.com/user-attachments/assets/031be965-5ce6-4edd-8a98-edf2e84a1d4d" />
 
