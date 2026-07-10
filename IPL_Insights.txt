@@ -1,0 +1,8 @@
+IPL SPORTS DATA ANALYSIS
+===================================
+
+Top Run Scorer: V Kohli (8014 Runs)
+Highest Strike Rate: L Wood (300.00)
+Best Team: Rising Pune Supergiant (62.50% Win Rate)
+Highest Scoring Season: 2024 (24657 Runs)
+Compared Players: MS Dhoni vs V Kohli
